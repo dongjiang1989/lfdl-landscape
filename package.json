@@ -10,7 +10,7 @@
     "build": "npm run latest; npm config set scripts-prepend-node-path true; export PROJECT_PATH=\"$PWD\"; npm explore interactive-landscape -- npm run build",
     "latest": "npm install interactive-landscape@latest"
   },
-  "author": "LFDL",
+  "author": "dongjiang1989@126.com",
   "license": "Apache-2.0",
   "dependencies": {
     "core-js": "^2.6.5",
