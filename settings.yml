@@ -66,6 +66,7 @@ home:
     href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) 在下面动态生成。 它以CNCF格局为基础，基于开源代码生成。
   footer: |
     数据来源于云核心网架构设计部-云服务技术团队.
+ads:
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: 按年份分类
