@@ -13,9 +13,6 @@ global:
   flags:
     cncf_sandbox: false
     companies: CloudService3.0 Member Company
-twitter:
-  search: CloudService3.0 Interactive Landscape
-  text: CS3 Deep Learning Landscape from @dongjiang1989
 relation:
   label: CloudService3.0 Relation
   url: CloudService3.0
@@ -65,7 +62,7 @@ home:
     <h1>云服务3.0技术项目规划全景图</h1> 云服务3.0技术项目规划全景图 (<a target="_blank"
     href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) 在下面动态生成。 它以CNCF格局为基础，基于开源代码生成。
   footer: >
-    数据来源于云核心网架构设计部-云服务技术团队.
+    数据来源于云核心网架构设计部 - 云服务技术团队.
 ads: []
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
