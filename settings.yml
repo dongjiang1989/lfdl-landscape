@@ -13,6 +13,8 @@ global:
   flags:
     cncf_sandbox: false
     companies: CloudService3.0 Member Company
+twitter:
+  text: CloudService3.0 Interactive Landscape
 relation:
   label: CloudService3.0 Relation
   url: CloudService3.0
